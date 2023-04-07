@@ -1,0 +1,3 @@
+import GlobalProcess
+
+GlobalProcess.Starting()
